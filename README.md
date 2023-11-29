@@ -49,11 +49,11 @@ Catatan: Pada tugas ini, peserta diharapkan untuk membuat aplikasi Android seder
 - Pastikan bahwa aplikasi meminta izin otentikasi dari pengguna untuk mengakses Google Calendar. 
 - Peserta harus mengimplementasikan autentikasi OAuth 2.0 menggunakan Google Sign-In atau mekanisme otentikasi lainnya yang sesuai.
 
-3. Error Handling:
+4. Error Handling:
 - Peserta diharapkan untuk menangani kemungkinan kesalahan, seperti ketidakmampuan untuk terhubung ke Google Calendar atau kesalahan saat menambahkan event. 
 - Berikan umpan balik yang sesuai kepada pengguna.
 
-4. Optimasi Kinerja:
+5. Optimasi Kinerja:
 - Pastikan bahwa aplikasi dioptimalkan untuk kinerja dengan menghindari pemanggilan API yang berulang-ulang dan mempertimbangkan implementasi caching untuk mengurangi waktu respons.
 
 ## 3. Visualisasi Data
