@@ -59,9 +59,9 @@ Catatan: Pada tugas ini, peserta diharapkan untuk membuat aplikasi Android seder
 ## 3. Visualisasi Data
 Catatan : Mengintegrasikan grafik menggunakan MPAndroidChart ke dalam aplikasi.
 1. Integrasi MPAndroidChart:
-- Integrasikan perpustakaan MPAndroidChart ke dalam proyek Android menggunakan dependensi yang sesuai.
+- Integrasikan MPAndroidChart library ke dalam proyek Android menggunakan dependensi yang sesuai.
 2. Inisialisasi Grafik:
-- Inisialisasikan objek grafik batang (BarChart) dalam sebuah aktivitas atau fragmen.
+- Inisialisasikan objek line chart ke dalam sebuah aktivitas atau fragmen.
 3. Isi Data Grafik:
 - Tambahkan data ke dalam line chart. Gunakan contoh data blood pressure (systole & diastole) seorang pasien.
 4. Atur Warna dan Tampilan:
