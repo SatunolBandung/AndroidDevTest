@@ -63,7 +63,7 @@ Catatan : Mengintegrasikan grafik menggunakan MPAndroidChart ke dalam aplikasi.
 2. Inisialisasi Grafik:
 - Inisialisasikan objek grafik batang (BarChart) dalam sebuah aktivitas atau fragmen.
 3. Isi Data Grafik:
-Tambahkan data ke dalam line chart. Gunakan contoh data blood pressure (systole & diastole) seorang pasien.
+- Tambahkan data ke dalam line chart. Gunakan contoh data blood pressure (systole & diastole) seorang pasien.
 4. Atur Warna dan Tampilan:
 - Sesuaikan warna dan tampilan grafik, termasuk warna garis, garis batas, dan judul grafik.
 5. Aktifkan Interaksi:
