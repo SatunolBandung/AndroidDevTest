@@ -1,5 +1,8 @@
 # Android Application Development Testing
 
+Mohon kumpulkan tugas dengan source code-nya melalui akun GitHub Anda.
+
+
 ## 1. Uji kemampuan teknis menggabungkan penggunaan canvas, SQLite, dan manipulasi elemen UI.
 
 Catatan: Pastikan Anda memiliki pengetahuan dasar tentang pengembangan aplikasi Android dan telah menyiapkan proyek Android Studio.
@@ -46,9 +49,24 @@ Catatan: Pada tugas ini, peserta diharapkan untuk membuat aplikasi Android seder
 - Pastikan bahwa aplikasi meminta izin otentikasi dari pengguna untuk mengakses Google Calendar. 
 - Peserta harus mengimplementasikan autentikasi OAuth 2.0 menggunakan Google Sign-In atau mekanisme otentikasi lainnya yang sesuai.
 
-3. Penanganan Kesalahan:
+3. Error Handling:
 - Peserta diharapkan untuk menangani kemungkinan kesalahan, seperti ketidakmampuan untuk terhubung ke Google Calendar atau kesalahan saat menambahkan event. 
 - Berikan umpan balik yang sesuai kepada pengguna.
 
 4. Optimasi Kinerja:
 - Pastikan bahwa aplikasi dioptimalkan untuk kinerja dengan menghindari pemanggilan API yang berulang-ulang dan mempertimbangkan implementasi caching untuk mengurangi waktu respons.
+
+## 3. Visualisasi Data
+Catatan : Mengintegrasikan grafik menggunakan MPAndroidChart ke dalam aplikasi.
+1. Integrasi MPAndroidChart:
+- Integrasikan perpustakaan MPAndroidChart ke dalam proyek Android menggunakan dependensi yang sesuai.
+2. Inisialisasi Grafik:
+- Inisialisasikan objek grafik batang (BarChart) dalam sebuah aktivitas atau fragmen.
+3. Isi Data Grafik:
+Tambahkan data ke dalam line chart. Gunakan contoh data blood pressure (systole & diastole) seorang pasien.
+4. Atur Warna dan Tampilan:
+- Sesuaikan warna dan tampilan grafik, termasuk warna garis, garis batas, dan judul grafik.
+5. Aktifkan Interaksi:
+- Aktifkan interaksi pengguna pada grafik, seperti zoom in/out dan sentuhan untuk menampilkan informasi detail.
+6. Kustomisasi Label Axis:
+- Sesuaikan label pada sumbu X dan Y untuk memberikan informasi yang jelas dan informatif.
